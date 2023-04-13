@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "649423003159",
+    "firebase_url": "https://twatch-8ec3b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "twatch-8ec3b",
+    "storage_bucket": "twatch-8ec3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649423003159:android:9ec181cf7835e088790652",
+        "android_client_info": {
+          "package_name": "com.example.test_esp32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649423003159-08vb0b33dl349qompqd67hk815dha2rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqF8NiZD-NrGotk0AWFIQxIAgGqD02PVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649423003159-08vb0b33dl349qompqd67hk815dha2rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649423003159:android:c88fe00bf50c1994790652",
+        "android_client_info": {
+          "package_name": "com.ispam.twatchman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649423003159-08vb0b33dl349qompqd67hk815dha2rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqF8NiZD-NrGotk0AWFIQxIAgGqD02PVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649423003159-08vb0b33dl349qompqd67hk815dha2rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
