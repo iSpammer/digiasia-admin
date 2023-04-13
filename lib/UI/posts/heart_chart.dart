@@ -116,7 +116,7 @@ class HeartChartState extends State<HeartChart> {
                             val: lastData!.yacc.toString()
                           ),
                           AnalyticInfo(
-                            title: "SPO2",
+                            title: "Z ACC",
                             iconSrc: Icons.air,
                             color: green,
                             val: lastData!.zacc.toString()
